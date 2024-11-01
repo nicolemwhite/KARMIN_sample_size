@@ -13,4 +13,5 @@ The ShinyCRT web application was used to determine the minimum sample size for t
 * Intraclass correlation coefficient: 0.0001
 * A two-sided statisical significance level = 0.025 to account for two planned comparisons (soap vs. detergent, soap vs. probiotic)
 * A two-period decay correlation function with a cluster autocorrelation coefficient = 0.8. This assumption allows the correlation to chagne by measurement period
+* No variation in treatment effect across clusters
 * For each planned comparison, a custom design matrix was used with 0 = reference arm, 1 = non-reference arm in the planned comparison, NA =  remaining non-reference arm not in the planned comparison
