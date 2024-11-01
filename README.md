@@ -6,6 +6,7 @@ Details of sample size calculations based on data reported for the KARMIN study 
 The ShinyCRT web application was used to determine the minimum sample size for the primary outcome based on following reported information:
 
 * The study design presented in the paper: 3 treatment sequences, 6 wards assigned to each treatment sequence.
+* Cross-sectional sampling structure
 * Each ward was a cluster
 * Primary outcome: reported incidence per 100 patients under the soap-based arm (reference): 1.65. Treated as a binary outcome (1.65%)
 * The expected reduction in the primary outcome before the trial commenced: 30% reduction to 1.115 (1.115%)
